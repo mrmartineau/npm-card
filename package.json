@@ -1,10 +1,10 @@
 {
-  "name": "bitandbang",
+  "name": "mrmartineau",
   "version": "1.2.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "description": "A personal card for Zander Martineau (@MrMartineau)",
   "main": "index.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "mrmartineau": "./bin/card.js"
   },
   "repository": {
     "type": "git",
