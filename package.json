@@ -1,6 +1,6 @@
 {
   "name": "mrmartineau",
-  "version": "1.2.0",
+  "version": "0.0.0",
   "description": "A personal card for Zander Martineau (@MrMartineau)",
   "main": "index.js",
   "bin": {
@@ -17,7 +17,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Zander Martineau (https://zander.wtf)",
   "license": "MIT",
   "files": [
     "bin/card.js",
