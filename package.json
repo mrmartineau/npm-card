@@ -1,6 +1,6 @@
 {
   "name": "mrmartineau",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A personal card for Zander Martineau (@MrMartineau)",
   "main": "index.js",
   "bin": {
@@ -19,7 +19,10 @@
   "keywords": [],
   "author": "Zander Martineau (https://zander.wtf)",
   "license": "MIT",
-  "files": ["bin/card.js", "bin/output"],
+  "files": [
+    "bin/card.js",
+    "bin/output"
+  ],
   "devDependencies": {
     "boxen": "^2.1.0",
     "chalk": "^2.4.1",
