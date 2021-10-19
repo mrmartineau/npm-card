@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "https://github.com/mrmartineau/npm-card.git"
   },
   "scripts": {
     "prepublish": "npm run build",
@@ -17,12 +17,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Zander Martineau",
   "license": "MIT",
-  "files": [
-    "bin/card.js",
-    "bin/output"
-  ],
+  "files": ["bin/card.js", "bin/output"],
   "devDependencies": {
     "boxen": "^2.1.0",
     "chalk": "^2.4.1",
